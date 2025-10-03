@@ -42,14 +42,14 @@ Accidents and fatalities show a declining trend since 2000, largely due to regul
 ### 2. Lowest-Risk Aircraft Models  
 Boeing 737-800 and Embraer E75 consistently demonstrate low severity and minimal fatalities, making them strong candidates for acquisition.  
 
-![Top 10 Lowest-Risk Aircraft Models](path/to/lowest_risk_aircraft.png)  
+![Top 10 Lowest-Risk Aircraft Models](https://github.com/mcshoja/Aviation-Data-Phase-1-Project/blob/main/low%20risk%20aricraft%20models.png?raw=true)  
 
 ---
 
 ### 3. Operational and Environmental Risk Factors  
 Weather and flight phase are critical risk drivers. IMC (instrument conditions) during approach and landing shows the highest severity.  
 
-![Weather and Flight Phase Risk](path/to/weather_phase_risk.png)  
+![Weather and Flight Phase Risk](https://github.com/mcshoja/Aviation-Data-Phase-1-Project/blob/main/weather%20conditions.png?raw=true) 
 
 ---
 
