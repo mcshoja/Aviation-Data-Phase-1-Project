@@ -53,9 +53,9 @@ Weather and flight phase are critical risk drivers. IMC (instrument conditions) 
 
 ---
 ### Interactive Dashboard
-**View the dashboard:** [Aviation Safety Dashboard](https://public.tableau.com/app/profile/jasho.kiplangat/viz/Aviation_17593475384010/WeatherConditions?publish=yes)
+**View the dashboard:** [Aviation Safety Dashboard](https://public.tableau.com/app/profile/jasho.kiplangat/viz/Aviation_17593475384010/SafestaircraftDashboard?publish=yes)
 
-[![Dashboard preview](images/dashboard_thumb.png)](https://public.tableau.com/app/profile/jasho.kiplangat/viz/Aviation_17593475384010/WeatherConditions?publish=yes)
+[![Dashboard preview](images/dashboard_thumb.png)](https://public.tableau.com/app/profile/jasho.kiplangat/viz/Aviation_17593475384010/SafestaircraftDashboard?publish=yes)
 
 ---
 
