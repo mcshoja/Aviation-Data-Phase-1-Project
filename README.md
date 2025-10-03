@@ -1,4 +1,4 @@
-# Safest Aircraft Models Dashboard
+# Aviation Safety Risk Analysis: Identifying Low-Risk Aircraft Models
 
 ## Overview  
 This project analyzes aviation accident data from the National Transportation Safety Board (NTSB) covering **1962–2022**. The goal is to provide actionable insights into aircraft safety to support informed decisions on aircraft acquisition for both commercial and private operations.  
@@ -35,7 +35,7 @@ The dataset comes from the **NTSB Aviation Accident Database**, filtered to even
 ### 1. Accident Trends Over Time  
 Accidents and fatalities show a declining trend since 2000, largely due to regulatory improvements and technology.  
 
-![Accidents vs Fatalities Over Time](path/to/accidents_vs_fatalities.png)  
+![Accidents vs Fatalities Over Time](https://github.com/mcshoja/Aviation-Data-Phase-1-Project/blob/dec0607447679aba8345589d8755e0b5731f50e3/accidents%20vs%20fatalities.png)
 
 ---
 
