@@ -1,0 +1,16 @@
+# Raw data
+Aviation_Data.csv
+
+# Presentation source
+*.pptx
+
+# OS/IDE junk
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+learn-env/
